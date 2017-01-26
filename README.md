@@ -1,6 +1,8 @@
 # angular-2-snippets
 Angular 2 snippets for faster development
 
+![Use Extension](images/guide.gif)
+
 <blockquote><!--block-->Installation Steps</blockquote>
 <ol><li><!--block-->Launch VS Code Quick Open (Ctrl+P)</li><li><!--block-->Execute the below command</li><pre><!--block-->&nbsp; &nbsp; &nbsp; &nbsp; ext install angular-2-snippets</pre><li><!--block-->Re-launch vs code</li></ol><div><!--block--></div>
 
@@ -17,5 +19,3 @@ service     		                Creates Angular 2 service
 subscribe   		                Creates Angular 2 Rx Observable subscription
 describe    	                  Creates a describe block for Angular 2 unit testing
 it 					                    Creates a it block for Angular 2 unit testing
-
-<image src="images/component-Creation.gif" width="200px" height="200px"/>
