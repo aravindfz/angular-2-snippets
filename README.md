@@ -2,7 +2,7 @@
 Angular 2 snippets for faster development
 
 <blockquote><!--block-->Installation Steps</blockquote>
-<ol><li><!--block-->Launch VS Code Quick Open (Ctrl+P)</li><li><!--block-->Execute the below command</li><pre><!--block-->&nbsp; &nbsp; &nbsp; &nbsp; ext install angular-2-snippets</pre><li><!--block-->Re-launch vs code</li></ol><div><!--block--><br><br><br><br></div>
+<ol><li><!--block-->Launch VS Code Quick Open (Ctrl+P)</li><li><!--block-->Execute the below command</li><pre><!--block-->&nbsp; &nbsp; &nbsp; &nbsp; ext install angular-2-snippets</pre><li><!--block-->Re-launch vs code</li></ol><div><!--block--></div>
 
 <blockquote><!--block-->TypeScript Snippets</blockquote>
 `````
