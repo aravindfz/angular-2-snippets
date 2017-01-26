@@ -17,3 +17,5 @@ service     		                Creates Angular 2 service
 subscribe   		                Creates Angular 2 Rx Observable subscription
 describe    	                  Creates a describe block for Angular 2 unit testing
 it 					                    Creates a it block for Angular 2 unit testing
+
+<image src="images/component-Creation.gif" width="200px" height="200px"/>
