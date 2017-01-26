@@ -5,7 +5,7 @@ Angular 2 snippets for faster development
 <ol><li><!--block-->Launch VS Code Quick Open (Ctrl+P)</li><li><!--block-->Execute the below command</li><pre><!--block-->&nbsp; &nbsp; &nbsp; &nbsp; ext install angular-2-snippets</pre><li><!--block-->Re-launch vs code</li></ol><div><!--block--></div>
 
 <blockquote><!--block-->TypeScript Snippets</blockquote>
-`````
+
 bootmodule      		    // Creates a Angular 2 bootstrapping module (main.ts)
 comp            			 //  Creates a Angular 2 component
 appcomp     		      //   Creates a Angular 2 root app component
